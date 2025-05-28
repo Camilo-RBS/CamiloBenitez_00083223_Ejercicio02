@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="5/27/2025 7:39:23 PM"
@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="10"
-  DTS:VersionGUID="{B8A76A22-E918-4328-93A7-007AA875315D}">
+  DTS:VersionBuild="9"
+  DTS:VersionGUID="{F8C9C6BB-C05B-4246-B81F-CDCC59096136}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAiGQqMEh7rEaAq1L+PSAZhgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACkQ1vLJpAsk69kVK003OqFW7PB3NGwLCoTPJYHujbUbAAAAAAOgAAAAAIAACAAAADE78dAZyIZvsSWMQNIA5BXqgYhCmnxLuNN7yQSs33QgSAAAABPpxPe+L7eEk0EtDFxtJUFJnZ1UFXl/F78D4QkDB2H30AAAADAu5Yz5ioxOchg/epS7eiMTIgCQBQCtHJOYYi6E8rLSzt4QVbsJxrC7A4FebgR4DPVWoI6/Xn5ozrj1w3liWd7</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAiGQqMEh7rEaAq1L+PSAZhgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABNWtBQH0UAw6N2WWbxJ0Vj1fb23EOP6yym/tnTtsvsAwAAAAAOgAAAAAIAACAAAACRtOinsNHQxmgPXvsBg5ayZkLv82BKs+OM9knc9waKVCAAAADtWJ5Tyx11jPBTUpCWsgsKuyIiZAZ3JDulJPds5Nh8mEAAAACqhx/cPyxtRrS6YHQrxz5n4mZh4699OXQ0EwEfw37EQp0pDqEjDctU9X4Dv4JlK/iwCmP2uz1a1p6FsT8yrwX7</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -46,7 +46,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAiGQqMEh7rEaAq1L+PSAZhgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAGOMOYFh4+70CM6zruQbnYmjihHDkZIp0JC14jQLFdSwAAAAAOgAAAAAIAACAAAACYiiDvY+mFoo92ey4gsE46SvNvBgqQfsJU/RwNjApAOSAAAACq5TAWaGi/SIEwO6qy53SpeWafqUBn/WcuSVKpbUntikAAAADE4Y9m4/jdHyfn2xOdBG1iF86Gr+9X721twEsssgePJKcBz6JCbrU615zVsk8XOTLW247dURR/2S6hhrY4U5ZE</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAiGQqMEh7rEaAq1L+PSAZhgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADuzmKOpTWrSu0Oq5xQN/9fPybJNQ5ZpEtthWGhEqWSVwAAAAAOgAAAAAIAACAAAADtuT60XaRwrLoE3I0JNNj62kfEsThdla6w1OuGlbnzCyAAAAA3OSqrhEHP6C76Dq0t4z4SyFmdUJkZSeElSL+jrCF42UAAAAAXwulU/PiZRCI5w6ubMbMtzG84LZsprWXO+Jjgh7iduXHALKBw7CMrYUr1a34GKlIJRSXLFhjZiIGUysKmnNMS</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
